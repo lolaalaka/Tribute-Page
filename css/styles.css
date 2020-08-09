@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  padding: 5%;
+}
+.page-body {
+  background-color: white;
+  margin:0 auto;
+
+}
+/* image style */
+.bey-image{
+  width:600px;
+  height:300px;
+  border: 3px solid;
+  box-shadow: 0  0 50px  #e7dfd5;
+}
+hr{
+  border: 3px dotted;
+  width:10%;
+  border-bottom: none;
+  margin: 50px auto;
+}
+h4 {
+  font-size:2.5rem;
+}
+
+/* text style */
+.bey-text {
+  width:400px;
+  height: 500px;
+  display: inline-block;
+  margin-right: 50px;
+  line-height: 2;
+}
+.bey-texttwo{
+  width: 390px;
+  height: 500px;
+  display:inline-block;
+  margin-left: 50px;
+  line-height: 2;
+}
